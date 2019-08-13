@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/classic/classic",
+    "components/like/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "while",
+    "navigationBarTitleText": "乌托邦",
+    "navigationBarTextStyle": "black"
+  }
+}
